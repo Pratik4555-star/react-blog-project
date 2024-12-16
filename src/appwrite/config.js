@@ -1,6 +1,4 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-unreachable */
-/* eslint-disable no-empty */
+
 import conf from "../conf/conf";
 import { Client,Databases,Storage, Query, ID } from "appwrite";
 
